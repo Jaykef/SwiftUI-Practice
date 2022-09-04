@@ -10,3 +10,4 @@ A university campus tour app built with SwiftUI
 
 ## 2. WeChat Clone SwiftUI
 ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/1.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/2.png)
+![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/3.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/4.png)
