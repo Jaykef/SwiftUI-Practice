@@ -13,7 +13,7 @@ class MMPopAnimator: NSObject, UIViewControllerAnimatedTransitioning {
     var animating = false
     
     func transitionDuration(using transitionContext: UIViewControllerContextTransitioning?) -> TimeInterval {
-        return 0.2
+        return 0.3
     }
     
     func animateTransition(using transitionContext: UIViewControllerContextTransitioning) {
