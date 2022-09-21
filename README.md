@@ -12,6 +12,6 @@ A university campus tour app built with SwiftUI
 ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/1.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/2.png)
 ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/3.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/4.png)
 
-## 2. Swift Charts
+## 3. Swift Charts
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/1.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/2.png)
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/3.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/4.png)
