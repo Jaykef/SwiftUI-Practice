@@ -12,6 +12,11 @@ A university campus tour app built with SwiftUI
 ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/1.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/2.png)
 ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/3.png) ![h](https://github.com/Jaykef/Swift-UI-Practice/blob/main/WeChatSwiftUI/Screenshots/4.png)
 
-## 3. Swift Charts
+## 3. Explore
+Display a richly detailed map, and use Look Around to experience an interactive view of landmarks.
+![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/Explore/screenshot/1.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/Explore/screenshot/2.png)
+![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/Explore/screenshot/3.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/Explore/screenshot/4.png)
+
+## 4. Swift Charts
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/1.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/2.png)
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/3.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/4.png)
