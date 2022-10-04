@@ -21,3 +21,6 @@ Display a richly detailed map, and use Look Around to experience an interactive 
 ## 4. Swift Charts
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/1.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/2.png)
 ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/3.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/SwiftCharts/screenshots/4.png)
+
+## 5. Core Data Synchronization 
+![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/CoreDataSynchronization/Screenshots/1.png) ![h](https://github.com/Jaykef/SwiftUI-Practice/blob/main/CoreDataSynchronization/Screenshots/2.png)
