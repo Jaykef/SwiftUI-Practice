@@ -1,5 +1,5 @@
 # Swift-UI-Practice
-My hands on learning experience of SwiftUI
+My hands on learning experience of Swift and SwiftUI
 
 ## 1. BIT Campus Tour
 A university campus tour app built with SwiftUI
